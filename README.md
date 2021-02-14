@@ -1,2 +1,2 @@
-# denisafa-JS2020Q3
-Private repository for @denisafa
+# gem-puzzle
+deploy: https://denisafa.github.io/gem-puzzle/
